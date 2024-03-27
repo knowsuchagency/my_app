@@ -8,3 +8,5 @@ node_modules
 .mypy_cache
 .pytest_cache
 static/dist
+
+package-lock.json
