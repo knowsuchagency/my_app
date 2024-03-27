@@ -9,4 +9,3 @@ node_modules
 .pytest_cache
 static/dist
 
-package-lock.json
